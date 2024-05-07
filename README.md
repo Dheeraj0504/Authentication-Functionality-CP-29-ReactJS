@@ -1,5 +1,8 @@
 In this project, let's build **Authentication Functionality** by applying the concepts we have learned till now.
 
+### Publised link:
+https://My24AuthFunct.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
